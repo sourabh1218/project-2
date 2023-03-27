@@ -2,3 +2,4 @@
 screenshot updated
 Upload
 Upload new folder
+delete
